@@ -16,8 +16,7 @@ Project developed with the aim of simulating a CRUD system, using SQLite3 as a d
 - GitHub Actions (CI/CD): Continuous integration and delivery by
   automating code modifications, testing, and streamlined deployment processes.
 
-  ### Chat
-  ![image](https://github.com/sullyanoo/ChatBot/blob/main/img/interface.png)
+  ### CRUD
+  ![image](https://github.com/sullyanoo/CrudPython/blob/main/img/interface.png)
 
-  ### Produtos
-  ![image](https://github.com/sullyanoo/ChatBot/blob/main/img/interface_menu_produtos.png)
+
